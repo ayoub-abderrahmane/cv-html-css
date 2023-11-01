@@ -1,0 +1,82 @@
+body {
+    background-color: bisque;
+}
+p {
+    color:black
+}
+body {
+    background: 
+}
+article.test1 {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+      padding-right: 950px;
+}
+article.test2 {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    padding-left: 950px;
+}
+article.test3 {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+      padding-right: 950px;
+}
+article.test4 {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    padding-left: 950px;
+}
+
+
+
+
+
+
+img {
+    width:200px ;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float :right ;
+    shape-outside: content-box;
+    margin:0 20 px
+}
+
+img.ia {
+    width:200px ;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float :right ;
+    shape-outside: content-box;
+    margin:0 20 px
+}
+
+img.foot {
+    width:200px ;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float :right ;
+    shape-outside: content-box;
+    margin:0 20 px
+}
+
+img.dip {
+    width:200px ;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float :left ;
+    shape-outside: content-box;
+    margin:0 20 px  
+}
